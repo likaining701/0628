@@ -26,3 +26,8 @@ int main() {
     
     return 0;
 }
+
+// 张三添加：欢迎函数
+void welcome() {
+    cout << "欢迎使用计算器！" << endl;
+}
